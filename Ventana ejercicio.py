@@ -43,3 +43,5 @@ ventana.configure(bg="gray")
 
 # Iniciar bucle principal
 ventana.mainloop()
+
+print ("estoy trabajando a lo pendejo")
